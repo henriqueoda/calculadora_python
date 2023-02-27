@@ -1,5 +1,3 @@
-# calculadora_python
-
 #   CÁLCULADORA EM PYTHON
 
 #   RAs: 
